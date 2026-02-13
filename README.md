@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre mim
 🎓 Estudante de Engenharia da Computação na **Universidade São Francisco (2024-2028)**  
-⚙️ Apaixonado por **back-end, dados e soluções escaláveis**  
+⚙️ Apaixonado por Tecnologia
 📚 Sempre aprendendo e compartilhando conhecimento  
 
 ---
@@ -32,5 +32,3 @@
 📩 **E-mail:** andersonggdg@gmail.com  
 🔗 [**LinkedIn**](https://www.linkedin.com/in/anderson-gabriel-10a10630b/)  
 
-
-Se conecte comigo e vamos construir algo incrível juntos! 🚀
